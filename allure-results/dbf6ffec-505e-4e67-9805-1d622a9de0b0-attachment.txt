@@ -1,0 +1,13 @@
+FirstName: Tomasa
+LastName: Bruen
+Selected value from Vacation dropdown is: Senior QA Lead
+Input date: Invalid Date
+Today date: Tue Jan 14 2025 01:41:35 GMT+0530 (India Standard Time)
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candidate Saved by clicking button save
+Candidate Rejected by clicking button Reject
+Candidate Saved by clicking button save
+Tomasa Bruen
+Candidate Found Successfully
+Download button count[object Promise]
+Resume downloaded successfully: ${resumedownloadpath}

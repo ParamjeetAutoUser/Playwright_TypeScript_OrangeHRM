@@ -1,0 +1,14 @@
+FirstName: Vesta
+LastName: Davis
+Available options AWS engineer1,docker expert1,Junior Account Assistant,Payroll Administrator,QA,Sales Representative,sandra,sandra,Senior QA Lead,Senior Support Specialist,Software Engineer,test
+Selected value from Vacation dropdown is: Senior QA Lead
+Input date: Invalid Date
+Today date: Wed Jan 15 2025 01:04:06 GMT+0530 (India Standard Time)
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candidate Saved by clicking button save
+Candidate Rejected by clicking button Reject
+Candidate Saved by clicking button save
+Vesta Davis
+Candidate Found Successfully
+Download button count[object Promise]
+Resume downloaded successfully: ${resumedownloadpath}

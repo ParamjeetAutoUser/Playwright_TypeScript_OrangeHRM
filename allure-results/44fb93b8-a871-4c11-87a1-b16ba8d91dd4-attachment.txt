@@ -1,0 +1,7 @@
+FirstName: Della
+LastName: Reinger
+Input date: Invalid Date
+Today date: Wed Jan 15 2025 00:34:58 GMT+0530 (India Standard Time)
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candidate Saved by clicking button save
+Candidate Rejected by clicking button Reject

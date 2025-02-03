@@ -1,0 +1,3 @@
+FirstName: Nicole
+LastName: Schimmel
+Selected value from Vacation dropdown is: Senior QA Lead

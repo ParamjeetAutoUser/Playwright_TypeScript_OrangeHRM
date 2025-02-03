@@ -1,0 +1,7 @@
+FirstName: Ike
+LastName: Little
+Selected value from Vacation dropdown is: Senior QA Lead
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candiddate Saved by clicking button save
+Ike Little
+Candidate Found Successfully

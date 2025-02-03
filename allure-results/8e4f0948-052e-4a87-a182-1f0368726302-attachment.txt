@@ -1,0 +1,6 @@
+FirstName: Otilia
+LastName: Corwin
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candiddate Saved by clicking button save
+Otilia Corwin
+Candidate Found Successfully

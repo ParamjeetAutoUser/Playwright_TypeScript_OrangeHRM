@@ -1,0 +1,11 @@
+{
+    "validCredentials": {
+      "username": "Admin",
+      "password": "admin123"
+    },
+    "AddRecruiter": {
+      "vacancy": "Senior QA Lead",
+      "dateYYYY_DD_YY": "2025-23-01"
+    }
+    
+}

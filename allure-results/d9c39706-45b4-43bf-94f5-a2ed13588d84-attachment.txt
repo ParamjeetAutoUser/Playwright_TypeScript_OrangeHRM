@@ -1,0 +1,8 @@
+FirstName: Imani
+LastName: Abshire
+Available options 
+Input date: Invalid Date
+Today date: Tue Jan 14 2025 01:27:54 GMT+0530 (India Standard Time)
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candiddate Saved by clicking button save
+Candidate Saved by clicking button save

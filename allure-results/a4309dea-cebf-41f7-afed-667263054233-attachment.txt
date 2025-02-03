@@ -1,0 +1,14 @@
+FirstName: Bernadine
+LastName: Runolfsson
+Selected value from Vacation dropdown is: Senior QA Lead
+YYYYMMDDdatevalue${year}-${month}-${day}
+Input date: Invalid Date
+Today date: Wed Jan 15 2025 01:25:54 GMT+0530 (India Standard Time)
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candidate Saved by clicking button save
+Candidate Rejected by clicking button Reject
+Candidate Saved by clicking button save
+Bernadine Runolfsson
+Candidate Found Successfully
+Download button count[object Promise]
+Resume downloaded successfully: ${resumedownloadpath}

@@ -1,0 +1,9 @@
+FirstName: Cale
+LastName: Gerhold
+Selected value from Vacation dropdown is: Senior QA Lead
+Input date: Invalid Date
+Today date: Mon Jan 13 2025 13:21:38 GMT+0530 (India Standard Time)
+FileUploadResume: D:\Pams.Dhulls\vscode-workspace\pw-ts-orange\e2e\testdata\UploadResume.txt
+Candiddate Saved by clicking button save
+Cale Gerhold
+Candidate Found Successfully
